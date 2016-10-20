@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "COIN 2017"
 data: 2016-10-20
 ---
