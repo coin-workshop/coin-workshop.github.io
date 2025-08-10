@@ -1763,6 +1763,13 @@ input, select, textarea {
 
 		}
 
+	.proceedings-item {
+		padding: 15px; /* Space inside each card */
+	  /* background: #f9f9f9; /* Optional: light background for separation */ */
+	  border-radius: 6px;
+	  margin-bottom: 20px; /* Space below each item in mobile mode */
+	}
+
 /* Section/Article */
 
 	section.special, article.special {
